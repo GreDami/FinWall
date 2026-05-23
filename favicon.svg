@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <circle cx="32" cy="32" r="30" fill="#05050A"/>
+  <!-- Row 1 bricks -->
+  <rect x="7"  y="10" width="22" height="12" rx="3" fill="#00C896"/>
+  <rect x="33" y="10" width="22" height="12" rx="3" fill="#00C896"/>
+  <!-- Row 2 bricks (offset) -->
+  <rect x="7"  y="26" width="10" height="12" rx="3" fill="#00C896"/>
+  <rect x="21" y="26" width="22" height="12" rx="3" fill="#00C896"/>
+  <rect x="47" y="26" width="10" height="12" rx="3" fill="#00C896"/>
+  <!-- Row 3 bricks -->
+  <rect x="7"  y="42" width="22" height="12" rx="3" fill="#00C896"/>
+  <rect x="33" y="42" width="22" height="12" rx="3" fill="#00C896"/>
+</svg>
